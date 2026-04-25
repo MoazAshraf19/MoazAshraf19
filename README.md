@@ -1,5 +1,6 @@
 # Hi there, I'm Moaz Ashraf 👋
 ### Flutter Developer | Mobile App Specialist
+### A Passionate Flutter Developer from Egypt 🇪🇬
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
@@ -15,6 +16,7 @@
 - 🌱 Currently deep-diving into **State Management** and **Clean Architecture** to write better code.
 - ⚡ I believe in "Code quality over quantity" and I'm always looking to learn something new.
 - 🎯 My goal is to transform creative ideas into real-world products that solve problems.
+- 📫 How to reach me: [mo3zashraf19@gmail.com]
 
 ### 📊 GitHub Activity
 <p align="center">
@@ -29,8 +31,8 @@
 
 ### 📩 Connect with me
 <p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mo3zashraf19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/moaz-ashraf-635383394?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
